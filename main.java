@@ -1,1 +1,2 @@
-hhhjghjghjhhkbb
+public class ghjgj{
+}
